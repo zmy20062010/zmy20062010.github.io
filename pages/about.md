@@ -3,35 +3,25 @@ layout: page
 title: About
 ---
 
-Karl Broman is Professor in the
+Maoying Zhou is now an asistant Professor in the
 [Department of Biostatistics &amp; Medical Informatics](http://www.biostat.wisc.edu)
-at the University of Wisconsin&ndash;Madison;
-research in statistical genetics; developer of
-[R/qtl](http://www.rqtl.org) (for [R](http://www.r-project.org)).
+at the Hangzhou Dianzi University;
+research in smart materials and structures, solid mechanics, fluid mechanics,
+fluid structure interaction.
 
-Karl received a BS in [mathematics](http://www4.uwm.edu/letsci/math/)
-in 1991, from the 
-University of Wisconsin&ndash;Milwaukee, and a
-PhD in [Statistics](http://www.stat.berkeley.edu) in 1997, from the
-University of California, Berkeley; his PhD advisor was
-[Terry Speed](http://www.wehi.edu.au/faculty_members/professor_terry_speed).
-He was a postdoctoral fellow with [James Weber](https://www.preventiongenetics.com/about-us/senior-staff/) at the
-[Marshfield Clinic Research Foundation](http://research.marshfieldclinic.org),
-1997-1999. He
-was a faculty member in the Department of Biostatistics at Johns
-Hopkins University, 1999-2007. In 2007, he moved to the
-University of Wisconsin&ndash;Madison,
-where he is now Professor.
+Karl received a BS in Mechanical Engineering in
+Huazhong University of Science and Technology
+in 2010, and a
+PhD in Mechanical Engineering in 2015,
+from the Zhejiang University;
+Starting from 2016, he was an asistant professor in
+the Hangzhou Dianzi University
 
-Karl is an applied statistician focusing on problems in genetics and
-genomics, particularly the analysis of meiotic recombination and the
-genetic dissection of complex traits in experimental organisms. The
-latter is often called &ldquo;QTL mapping.&rdquo; A QTL is a
-_quantitative trait locus_ &ndash; a genetic locus that influences a
-quantitative trait. Recently he has been focusing on the development
-of interactive data visualizations for high-dimensional genetic data;
-see his [R/qtlcharts package](http://kbroman.org/qtlcharts) and
-his [D3 page](http://www.biostat.wisc.edu/~kbroman/D3).
+With a background in Engineering, Maoying is interested in
+the application of mathematical tools to solve the problems
+encountered in the engineering applications, including the
+explanation of interesting phenomena, the modeling of complex
+system behaviors and the analysis of physical indications.
 
 [**Curriculum vitae** ![CV as pdf](pdf-icon.png)]({{ BASE_PATH }}/assets/broman.pdf)
 
@@ -40,16 +30,8 @@ his [D3 page](http://www.biostat.wisc.edu/~kbroman/D3).
 
 #### Contact
 
-Karl Broman<br>
-[Department of Biostatistics &amp;  Medical Informatics](http://www.bisotat.wisc.edu)<br>
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu)<br>
-[2126 Genetics/Biotechnology Center](http://map.wisc.edu/s/2tie3nen)<br>
-425 Henry Mall<br>
-Madison, Wisconsin 53706<br>
-USA
 
-Email: `kbroman` at `biostat` dot `wisc` dot `edu`<br>
-Phone: 608-262-4633<br>
+Email: `maureenchou06` at `gmail` dot `com`<br>
 
 ---
 
