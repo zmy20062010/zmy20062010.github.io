@@ -23,7 +23,7 @@ encountered in the engineering applications, including the
 explanation of interesting phenomena, the modeling of complex
 system behaviors and the analysis of physical indications.
 
-[**Curriculum vitae** ![CV as pdf](pdf-icon.png)]({{ BASE_PATH }}/assets/maoying.jpg)
+[**Curriculum vitae** ![CV as pdf](pdf-icon.png)]({{ BASE_PATH }}/assets/broman.pdf)
 
 
 ---
@@ -35,4 +35,4 @@ Email: `maureenchou06` at `gmail` dot `com`<br>
 
 ---
 
-[![Karl Broman](../assets/pics/karl_2014-03-30_smcrop.jpg)](../assets/pics/karl_2014-03-30_crop.jpg)
+[![Maoying Zhou](../assetsmaoying.jpg)](../assets/maoying.jpg)
