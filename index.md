@@ -34,7 +34,7 @@ interesting behaviors, and the analysis of physical indications.
 ---
 ## Publications
 
-[tealeafparadox]
+[Tea Leaf Paradox][tealeafparadox]
 
 
 [deploy]: user-guide/deploying-your-docs/
