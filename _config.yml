@@ -8,19 +8,17 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Karl Broman
+title : Maoying Zhou
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  twitter : kwbroman
-  feedburner : nil
+  name : Maoying Zhou
+  email : maureenchou06@gmail.com
+  github : zmy20062010
 
 production_url : http://kbroman.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
-markdown: kramdown
+# markdown: kramdown
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
