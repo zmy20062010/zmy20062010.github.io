@@ -14,7 +14,11 @@ focuses on the application of mathematics and physics into engineering
 practice, including the explanation of daily phenomena, the modeling of 
 interesting behaviors, and the analysis of physical indications.
 
-### Host anywhere
+## Teaching
+
+
+
+### Publications
 
 MkDocs builds completely static HTML sites that you can host on GitHub pages,
 Amazon S3, or [anywhere][deploy] else you choose.
