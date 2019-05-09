@@ -34,7 +34,7 @@ interesting behaviors, and the analysis of physical indications.
 ---
 ## Publications
 
-
+[tealeafparadox]
 
 
 [deploy]: user-guide/deploying-your-docs/
@@ -52,3 +52,4 @@ interesting behaviors, and the analysis of physical indications.
 [Python]: https://www.python.org/
 [site_name]: user-guide/configuration/#site_name
 [theme]: user-guide/configuration/#theme
+[tealeafparadox]: https://github.com/zmy20062010/zmy20062010.github.io/blob/master/_pages/2019-05-09-tea-leaf-paradox.md
