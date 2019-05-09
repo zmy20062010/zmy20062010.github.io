@@ -9,7 +9,7 @@ at the Hangzhou Dianzi University;
 research in smart materials and structures, solid mechanics, fluid mechanics,
 fluid structure interaction.
 
-Karl received a BS in Mechanical Engineering in
+Maoying received a BS in Mechanical Engineering in
 Huazhong University of Science and Technology
 in 2010, and a
 PhD in Mechanical Engineering in 2015,
@@ -35,4 +35,4 @@ Email: `maureenchou06` at `gmail` dot `com`
 
 ---
 
-[![Maoying Zhou](../assetsmaoying.jpg)](../assets/maoying.jpg)
+[![Maoying Zhou](../assets/maoying.jpg)](../assets/maoying.jpg)
