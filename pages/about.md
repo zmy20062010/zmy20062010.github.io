@@ -4,14 +4,14 @@ title: About
 ---
 
 Maoying Zhou is now an asistant Professor in the
-[Department of Biostatistics &amp; Medical Informatics](http://www.biostat.wisc.edu)
+Deparment of Mechanical Engineering
 at the Hangzhou Dianzi University;
 research in smart materials and structures, solid mechanics, fluid mechanics,
 fluid structure interaction.
 
 Karl received a BS in Mechanical Engineering in
 Huazhong University of Science and Technology
-in 2010, and a 
+in 2010, and a
 PhD in Mechanical Engineering in 2015,
 from the Zhejiang University;
 Starting from 2016, he was an asistant professor in
@@ -23,7 +23,7 @@ encountered in the engineering applications, including the
 explanation of interesting phenomena, the modeling of complex
 system behaviors and the analysis of physical indications.
 
-[**Curriculum vitae** ![CV as pdf](pdf-icon.png)]({{ BASE_PATH }}/assets/broman.pdf)
+[**Curriculum vitae** ![CV as pdf](pdf-icon.png)]({{ BASE_PATH }}/assets/maoying.jpg)
 
 
 ---
