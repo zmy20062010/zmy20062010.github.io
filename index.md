@@ -2,7 +2,7 @@
 
 <h1 style="text-align:center"> Personal Page of Maoying Zhou </h1>
 
-Project documentation with&nbsp;Markdown.
+Project documentation with Markdown.
 
 ---
 
