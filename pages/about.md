@@ -31,7 +31,7 @@ system behaviors and the analysis of physical indications.
 #### Contact
 
 
-Email: `maureenchou06` at `gmail` dot `com`<br>
+Email: `maureenchou06` at `gmail` dot `com`
 
 ---
 
