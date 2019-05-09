@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Karl Broman
+title: Maoying Zhou
 ---
 
 <link type="text/css" rel="stylesheet" href="assets/jquery/jquery.qtip.min.css">
