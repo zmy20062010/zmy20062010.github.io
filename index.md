@@ -1,4 +1,4 @@
-# <center> Personal Page of Maoying Zhou </center>
+# <h1 style="text-align:center"> Personal Page of Maoying Zhou </h1>
 
 
 
