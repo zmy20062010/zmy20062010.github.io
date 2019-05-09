@@ -14,13 +14,19 @@ focuses on the application of mathematics and physics into engineering
 practice, including the explanation of daily phenomena, the modeling of 
 interesting behaviors, and the analysis of physical indications.
 
+
+---
 ## Research Interest
+
 
 ### Fluid stability
 
 ### Slender body theory
 
+### Theory and application of beams, plates, and shells 
 
+
+---
 ## Teaching
 
 ### General Numerical Computation
@@ -32,10 +38,10 @@ interesting behaviors, and the analysis of physical indications.
 ### Finite Element Analysis (FemFree++)
 
 
-### 
+### Finite Volume Method (Basilisk)
 
 
-
+---
 ## Publications
 
 
