@@ -11,7 +11,7 @@ fluid structure interaction.
 
 Karl received a BS in Mechanical Engineering in
 Huazhong University of Science and Technology
-in 2010, and a
+in 2010, and a 
 PhD in Mechanical Engineering in 2015,
 from the Zhejiang University;
 Starting from 2016, he was an asistant professor in
