@@ -1,17 +1,18 @@
 # <center> Welcome to the Personal Page of Maoying Zhou </center>
 
-<h1 style="text-align:center"> Personal Page of Maoying Zhou </h1>
-
-Project documentation with Markdown.
-
 ---
 
 ## Overview
 
-MkDocs is a **fast**, **simple** and **downright gorgeous** static site
-generator that's geared towards building project documentation. Documentation
-source files are written in Markdown, and configured with a single YAML
-configuration file.
+Maoying Zhou is now assistant professor in the Department of Mechanical
+Engineering at Hangzhou Dianzi University. With an education background
+in Mechanical Engineering (Bachelor's Degree in Mechanical Engineering
+from Huazhong University of Science and Technology in 2010; PhD's Degree
+in Mechanical Engineering from Zhejiang University in 2015; Start as
+assistant professor in Hangzhou Dianzi University.), his research interest
+focuses on the application of mathematics and physics into engineering 
+practice, including the explanation of daily phenomena, the modeling of 
+interesting behaviors, and the analysis of physical indications.
 
 ### Host anywhere
 
