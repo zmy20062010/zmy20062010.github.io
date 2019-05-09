@@ -19,12 +19,11 @@ interesting behaviors, and the analysis of physical indications.
 ## Research Interest
 
 
-### Fluid stability
+### Fluid mechanics and stability
 
-### Slender body theory
+### Solid mechanics and stability
 
-### Theory and application of beams, plates, and shells 
-
+### Fluid structure interaction
 
 ---
 ## Teaching
@@ -32,17 +31,10 @@ interesting behaviors, and the analysis of physical indications.
 ### General Numerical Computation
 
 
-### Numerical analysis of dynamical system
-
-
-### Finite Element Analysis (FemFree++)
-
-
-### Finite Volume Method (Basilisk)
-
-
 ---
 ## Publications
+
+
 
 
 [deploy]: user-guide/deploying-your-docs/
