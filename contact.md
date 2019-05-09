@@ -3,8 +3,6 @@ layout: page
 title: Contact
 ---
 
-Contact me through email. [[rapter476@outlook.com]](mailto:rapter476@outlook.com)
+Contact me through email. [[maureenchou06@gmail.com]](mailto:maureenchou06@gmail.com)
 
-Checkout my github. [[BorealBlizzard]](https://github.com/BorealBlizzard)
-
-Tweet me! [[JakobRamen]](https://twitter.com/JakobRamen)
+Checkout my github. [[zmy20062010]](https://github.com/zmy20062010)
