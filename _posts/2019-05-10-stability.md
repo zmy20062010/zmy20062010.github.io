@@ -8,7 +8,7 @@ tags:
 - other
 categories:
 - other
-twitter_text: 'First Try'
+twitter_text: 'Stability of differential equations'
 ---
 
 ## General description
