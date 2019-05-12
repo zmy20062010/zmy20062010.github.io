@@ -15,6 +15,8 @@ twitter_text: 'Matched asymptotic expansion'
 
 To begin with, we consider a small example showing the procedure of matched asymptotic expansion. It is a simple 
 differential equation with a small parameter
+
 $$
-  \epsilon \ddot{y} + (1 + \epsilon) \dot{y} + y = 0
+  \epsilon \ddot{y} + (1 + \epsilon) \dot{y} + y = 0,
 $$
+
